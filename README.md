@@ -1,2 +1,3 @@
 # git-project
 A new git repository...
+Example new line.
